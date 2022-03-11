@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://udemyBlogWebsite:blogwebApplication@devconnector.iktdt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "bfb8187b42a5ada0773a",
+    "githubSecret": "c6c496bc1b9037f67b333a56ea7e956567effca2"
+}
